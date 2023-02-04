@@ -8,7 +8,9 @@ int main(void) {
   float mediaAlunos[alunos] = {0};
 
   float media = 0;
-
+  /*
+   Comentario
+  */
   printf("Insira as 4 notas do aluno 1:\n");
   
   for(int aluno = 0;aluno < alunos;aluno++){
